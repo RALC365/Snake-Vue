@@ -1,5 +1,7 @@
 # snake-game
 
+![Demo][./assets/demo.png]
+
 ## Project setup
 ```
 yarn install
