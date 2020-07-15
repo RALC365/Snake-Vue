@@ -1,6 +1,6 @@
 # snake-game
 
-![Demo][src/assets/demo.png?raw=true "Demo"]
+![Demo](src/assets/demo.png?raw=true "Demo")
 
 ## Project setup
 ```
